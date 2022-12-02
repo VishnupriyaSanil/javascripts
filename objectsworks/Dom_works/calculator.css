@@ -1,0 +1,50 @@
+*{
+    margin:0%;
+    padding:0%;
+    /* background-color: black; */
+}
+.wrap{
+    height: 500px;
+    width: 332px;
+    padding: 10px;
+    margin: 10%;
+    background-color: black;
+    
+}
+
+input{
+    height:50px;
+    width:310px;
+    font-size: 40px;
+    padding: 10px;
+    text-align: right;
+    margin-bottom: 15px;
+    color:black;
+}
+.button{
+    color: aqua;
+    border-color: white;
+    width: 80px;
+    height: 70px;
+    padding: 10px;   
+    position: relative;
+    font-size: 30px;
+    font-style: bold;
+    text-align: center;
+    background: transparent;
+    cursor: pointer;
+}
+.button:hover{
+    color: white;
+}
+.equal{
+    border-color: white;
+    color: aqua;
+    height: 70px;
+    width:160px;
+    text-align: center;
+    font-style: bold;
+    background-color: transparent;
+    cursor: pointer;
+
+}
